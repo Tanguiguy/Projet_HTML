@@ -9,3 +9,22 @@ Il concerne le trinome suivant :
 THIREAU Gaylord
 CHAPERON Jérémie
 MOREAU Tanguy
+
+
+Technologies :
+NodeJS
+ - Serveur/Client
+ - Mongoose
+BDD Mongo  stockage des données
+Google Maps JS API V3  carte
+Bootstrap  responsive design
+Jquery
+
+Pages :
+-Choix des magasins
+-Constitution de la liste de course
+-Comparaison
+-Itinéraire
+
+
+
